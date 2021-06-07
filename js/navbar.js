@@ -24,11 +24,6 @@ let monElem = document.createElement("a")
 monElem.innerHTML = navBar[i].nom
 monElem.href = navBar[i].lien
 barreNav.appendChild(monElem);
-
-
-
-
-
 }
 
 
